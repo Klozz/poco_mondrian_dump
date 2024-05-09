@@ -1,0 +1,14 @@
+# missi_phone_eea-user 14 UKQ1.230804.001 V816.0.4.0.UMNEUXM release-keys
+- manufacturer: xiaomi
+- platform: taro
+- codename: mondrian
+- flavor: missi_phone_eea-user
+- release: 14
+- id: UKQ1.230804.001
+- incremental: V816.0.4.0.UMNEUXM
+- tags: release-keys
+- fingerprint: POCO/mondrian_eea/mondrian:12/SKQ1.230401.001/V816.0.4.0.UMNEUXM:user/release-keys
+- is_ab: true
+- brand: POCO
+- branch: missi_phone_eea-user-14-UKQ1.230804.001-V816.0.4.0.UMNEUXM-release-keys
+- repo: poco_mondrian_dump
